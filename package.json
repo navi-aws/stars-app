@@ -2,12 +2,10 @@
   "name": "nodejs-image-demo",
   "version": "1.0.0",
   "description": "nodejs image demo - stars website",
-  "author": "xxx",
   "license": "MIT",
   "main": "app.js",
   "keywords": [
     "nodejs",
-    "bootstrap",
     "express"
   ],
   "dependencies": {
